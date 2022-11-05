@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(50, 192, 142);
+} 
+#CV-form{
+    /*display: none;*/
+}
+#CV-template{
+    display: none;
+}
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+}
+
+.background {
+    background-color: aquamarine;
+}
